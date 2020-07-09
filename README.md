@@ -1,4 +1,4 @@
-###  Hi 👋 - yvoonshong
+###  Hi 👋 - yvonshong
 - 🚛 Working on [TuSimple](http://tusimple.com) 📍 Shanghai, China
 - 💻 Focus on Camera/LiDAR/SLAM/MAP
 - 🎓 Waseda University / Southeast University / Chengdu No.7 Middle High School
