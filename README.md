@@ -1,5 +1,5 @@
 ###  Hi 👋 - yvonshong
-- 🚛 Working on [TuSimple](http://tusimple.com) 📍 Shanghai, China
+- 🚛 Working on [HeSai](http://hesaitech.com/) 📍 Shanghai, China
 - 💻 Focus on Camera/LiDAR/SLAM/MAP
 - 🎓 Master: Waseda University (Information)/ Bachelor: Southeast University (Software Engineering)
 - 💬 Member of [@PaoPaoRobot](https://github.com/PaoPaoRobot/), [MSP](https://studentambassadors.microsoft.com/zh-cn).
