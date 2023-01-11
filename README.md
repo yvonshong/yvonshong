@@ -1,5 +1,5 @@
 ###  Hi 👋 from yvonshong
-- 🤖 Working on [Hesai Tech](http://hesaitech.com/) 2022.5- / [TuSimple](https://www.tusimple.com/) 2018.4-2022.4
+- 🤖 Working on [Hesai Tech](http://hesaitech.com/) since 2022.5 / [TuSimple](https://www.tusimple.com/) 2018.4-2022.4
 - 📍 Shanghai, China
 - 💻 Focus on Camera/LiDAR/SLAM/Map
 - 🎓 Master: [Waseda University](https://www.waseda.jp/) (Information) / Bachelor: [Southeast University](https://www.seu.edu.cn/) (Software Engineering)
